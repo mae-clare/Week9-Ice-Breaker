@@ -1,0 +1,15 @@
+ NATIONAL TEACHERS COLLEGE - PC16 OOP DART DEMO
+--- TESTING OBJECT BEHAVIORS ---
+Dipped Red paintbrush (Synthetic). Current paint load: 80%
+Applied stroke on Canvas using Red brush. Remaining paint load: 55%
+Applied stroke on Canvas using Red brush. Remaining paint load: 30%
+Cleaned Red paintbrush. Paint load reset to 0%.
+
+--- TESTING MAP & ENCAPSULATED STATE ---
+Detailing Brush Color: Red
+Detailing Brush Paint Load (via getter): 0%
+
+--- ITERATING THROUGH LIST OF OBJECTS ---
+Brush #1: Red (Synthetic) - Load: 0%
+Brush #2: Natural Wood (Animal Hair) - Load: 50%
+Brush #3: Blue (Foam) - Load: 100%
